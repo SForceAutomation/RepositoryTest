@@ -60,7 +60,7 @@ public class LoginTest {
 	    Thread.sleep(5000);
 	    //Assert.assertTrue(driver.getTitle().contains("Google"),"user is not able to login-invalidcredential");
 	    
-	    //System.out.println("Page tite is verified user is able to log in succesfully");
+	    System.out.println("Page tite is verified user is able to log in succesfully");
 	    //Thread.sleep(10000);
 	    
 
