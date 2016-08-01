@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19169" started-at="2016-07-26T14:54:03Z" finished-at="2016-07-26T14:54:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19169" started-at="2016-07-26T14:54:03Z" finished-at="2016-07-26T14:54:22Z">
+      <class name="DDT.LoginTest">
+        <test-method status="PASS" signature="logintoSales(java.lang.String, java.lang.String)[pri:0, instance:DDT.LoginTest@28d25987]" name="logintoSales" duration-ms="18233" started-at="2016-07-26T10:54:04Z" data-provider="testdata" finished-at="2016-07-26T10:54:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sadia_akhter.qa@newyorklife.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sh2344bd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoSales -->
+      </class> <!-- DDT.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
